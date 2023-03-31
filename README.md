@@ -15,3 +15,5 @@
 - The Frontend connection was established with CORS:determine cross-origin` domain, scheme or port ` while interacting with the server.
 - Controller Method CORS configuration:allows access for that specific Request method OR enable CORS for the whole controller.
 - Global CORS configuration:with a config package - WebMvcConfig file for configuration where methods by default allow all origins.
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
